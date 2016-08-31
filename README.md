@@ -4,6 +4,8 @@ relatore Salvatore Fiandaca
 
 fonte dati:
 
+OpenStreetMap OSM 
+
 ISTAT http://www.istat.it/it/archivio/124086
 
 INGVterremoti http://goo.gl/eQOOBa
