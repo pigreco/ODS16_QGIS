@@ -1,0 +1,15 @@
+# OpenDataSicilia 2016 - workshop QGIS: dai dati alle mappe
+
+relatore Salvatore Fiandaca
+
+fonte dati:
+
+ISTAT http://www.istat.it/it/archivio/124086
+
+INGVterremoti http://goo.gl/eQOOBa
+
+output stampa
+
+
+
+
