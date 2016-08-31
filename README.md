@@ -12,6 +12,8 @@ INGVterremoti http://goo.gl/eQOOBa
 
 output stampa
 
+<img src="https://github.com/pigreco/ODS16_QGIS/blob/master/stampa.jpeg" width =600>
+
 
 
 
