@@ -1,5 +1,7 @@
 # OpenDataSicilia 2016 - workshop QGIS: dai dati alle mappe
 
+materiale esercitazione
+
 relatore Salvatore Fiandaca
 
 fonte dati:
